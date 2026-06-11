@@ -1,57 +1,58 @@
-<!-- หัวข้อใหญ่จัดกึ่งกลาง พร้อมอนิเมชั่นพิมพ์ข้อความน่ารักๆ -->
+<!-- หัวข้อรูปภาพต้อนรับแบบน่ารักๆ อบอุ่น -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hello+World!+👋;Welcome+to+my+profile;I'm+doungkamol" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=fce4ec&text=welcome%20to%20doungkamol's%20space%20✨&fontSize=24&fontColor=6d4c41" width="100%" />
 </p>
 
 <p align="center">
-  <strong>สวัสดีค่ะ! ฉันชื่อ doungkamol 💻✨</strong><br>
-  ยินดีต้อนรับสู่พื้นที่เก็บโปรเจกต์และการเรียนรู้ของฉัน<br>
-  รักในการสร้างสรรค์โค้ดที่สะอาด และชอบเรียนรู้เทคโนโลยีใหม่ๆ อยู่เสมอ
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0am05b2Y4cmZ4ZnNndmN6M3p4ZzV5N295bmRwaXptczF5bmszdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9N6uW6vYp3vN6I7I1/giphy.gif" width="120" />
 </p>
 
 <p align="center">
-  <!-- ไอคอนโซเชียลมีเดียเชื่อมต่อ (อย่าลืมเปลี่ยนลิงก์ให้เป็นของคุณนะค่ะ) -->
-  <a href="mailto:your.email@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools (ทักษะและความเชี่ยวชาญ)
-
-<!-- สัญลักษณ์แสดงภาษาและเครื่องมือที่ใช้ แยกเป็นหมวดหมู่ให้ดูง่าย -->
-
-* **Languages:**
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
-
-* **Frameworks & Libraries:**
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/vuejs-%2340B581.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-* **Tools & Databases:**
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
----
-
-### 📊 GitHub Stats (สถิติการโค้ดของฉัน)
-
-<!-- แสดงการ์ดสถิติของ doungkamol แบบจัดวางคู่กันอย่างสวยงามด้วยธีม Tokyo Night -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doungkamol&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doungkamol&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" width="48%" />
+  <strong>สวัสดีค่ะ! ยินดีต้อนรับสู่โลกใบเล็กของ doungkamol 🧸🧁</strong><br>
+  ยินดีที่ได้รู้จักทุกคนที่แวะเวียนเข้ามานะคะ กำลังสนุกกับการฝึกฝนและสร้างสรรค์สิ่งใหม่ๆ อยู่ค่ะ<br>
+  ชอบบรรยากาศอบอุ่น การออกแบบที่สบายตา และการนั่งเขียนโค้ดพร้อมชาอุ่นๆ สักแก้ว ☕✨
 </p>
 
 <p align="center">
-  <!-- แถบประวัติการ Commit ในช่วงที่ผ่านมาของ doungkamol -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doungkamol&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <!-- ไอคอนโซเชียลมีเดียสไตล์พาสเทล นุ่มนวล -->
+  <a href="mailto:your.email@email.com"><img src="https://img.shields.io/badge/Say_Hi!_💌-f8bbd0?style=flat-square&logo=gmail&logoColor=6d4c41" target="_blank"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn_✨-c8e6c9?style=flat-square&logo=linkedin&logoColor=6d4c41"></a>
 </p>
 
 ---
 
-<!-- ส่วนท้ายสุด: ใส่ลูกเล่นยอดวิวน่ารักๆ และคำคมเก๋ๆ -->
+### 🎨 My Cozy Toolbox (สิ่งที่กำลังเรียนรู้และใช้งาน)
+
+<!-- ไอคอนแบบโค้งมน สีพาสเทล ไม่ดูแข็งกระด้าง -->
+
+* **Front-end & Design:**
+  <img src="https://img.shields.io/badge/HTML5-e0f2fe?style=for-the-badge&logo=html5&logoColor=0284c7" /> <img src="https://img.shields.io/badge/CSS3-e0f2fe?style=for-the-badge&logo=css3&logoColor=0284c7" /> <img src="https://img.shields.io/badge/JavaScript-fef9c3?style=for-the-badge&logo=javascript&logoColor=a16207" />
+
+* **Back-end & Core:**
+  <img src="https://img.shields.io/badge/Python-f0fdf4?style=for-the-badge&logo=python&logoColor=16a34a" /> <img src="https://img.shields.io/badge/SQL-fff1f2?style=for-the-badge&logo=mysql&logoColor=e11d48" /> <img src="https://img.shields.io/badge/Git-facc15?style=for-the-badge&logo=git&logoColor=black" />
+
+---
+
+### 🌟 My Little Journey (บันทึกการเติบโต)
+
+<!-- เปลี่ยนการ์ดสถิติให้เป็นโทนสีพาสเทล/ละมุน อบอุ่นสายตา ไม่ดุดัน -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=doungkamol&color=blueviolet&style=flat-square" alt="Views Count" />
+  <img src="https://github-readme-stats.vercel.app/api?username=doungkamol&show_icons=true&theme=rose&bg_color=fff5f5&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doungkamol&layout=compact&theme=rose&bg_color=fff5f5&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+  <!-- แถบความขยันแบบโทนละมุน -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doungkamol&theme=rose&background=fff5f5&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+<!-- ส่วนท้ายสุด: ตัวนับยอดวิวแบบน่ารักๆ และข้อความส่งท้าย -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=doungkamol&color=ffb74d&style=flat-square" alt="Views Count" />
+</p>
+
+<p align="center">
+  <i>"May your code be bug-free and your day be full of sunshine. ☀️🌱"</i>
 </p>
